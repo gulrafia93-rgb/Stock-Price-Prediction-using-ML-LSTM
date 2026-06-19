@@ -13,13 +13,7 @@ Stock price prediction is a **regression + time series** problem. This project f
 
 ---
 
-## Live Demo
 
-> Run locally or deploy via Streamlit — see setup instructions below.
-
-
-
----
 
 
 ##  Project Phases
