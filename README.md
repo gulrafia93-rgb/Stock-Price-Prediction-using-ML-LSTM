@@ -107,7 +107,7 @@ Stock price prediction is a **regression + time series** problem. This project f
 
 ```bash
 # 1. Clone the repo
-git clone https:/gulrafia93-rgb/github.com//stock-price-prediction.git
+git clone https:/gulrafia93-rgb/github.com//stock-price-prediction-using ML-LSTM.git
 cd stock-price-prediction
 
 # 2. Install dependencies
